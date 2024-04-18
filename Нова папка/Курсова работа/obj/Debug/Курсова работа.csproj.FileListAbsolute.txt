@@ -1,0 +1,25 @@
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\bin\Debug\Курсова работа.exe.config
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\bin\Debug\Курсова работа.exe
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\bin\Debug\Курсова работа.pdb
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.csproj.AssemblyReference.cache
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.csproj.SuggestedBindingRedirects.cache
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова_работа.Properties.Resources.resources
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.csproj.GenerateResource.cache
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.csproj.CoreCompileInputs.cache
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.exe
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.pdb
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова_работа.Form1.resources
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова_работа.Form2.resources
+C:\Users\steli\OneDrive\Работен плот\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова_работа.Form3.resources
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\bin\Debug\Курсова работа.exe.config
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\bin\Debug\Курсова работа.exe
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\bin\Debug\Курсова работа.pdb
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.csproj.AssemblyReference.cache
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова_работа.Form1.resources
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова_работа.Form2.resources
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова_работа.Form3.resources
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова_работа.Properties.Resources.resources
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.csproj.GenerateResource.cache
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.csproj.CoreCompileInputs.cache
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.exe
+D:\ProgramingFiles\Visual Studio Proects\Курсова работа\Курсова работа\obj\Debug\Курсова работа.pdb
